@@ -6,7 +6,7 @@ import re
 from internetarchive import search_items, get_item
 
 # --- CONFIGURATION ---
-GOOGLE_SHEET_CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vRpzhxoN8APn8Q_sZnbhZpKs9pOnejVgB0WGeLOBdt1tRIeg1P3uczk7QU8NhKH7UgRWL1XY4f780o7/pub?gid=1628160556&single=true&output=csv"
+GOOGLE_SHEET_CSV_URL = "https://docs.google.com/"
 BASE_DOWNLOAD_DIR = "./visual_art_crs"
 MAX_RESULTS_PER_ARTIST = 5   
 
